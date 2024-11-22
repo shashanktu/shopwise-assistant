@@ -1,0 +1,6 @@
+streamlit==1.40.1 
+Pillow==10.0.1  
+google-generativeai==0.8.3
+python-dotenv== 1.0.1
+sqlite3  
+logging  
