@@ -57,4 +57,15 @@ ShopWise Assistant is a **Streamlit-based web application** designed to assist u
 
 ## Demo
 [Bot Demo Video](bot-demo.mp4)
+## Team
+For inquiries, feel free to reach out via email:
+
+- [anirban.mondal@valuemomentum.com](mailto:anirban.mondal@valuemomentum.com)
+- [prashant.kulkarni@valuemomentum.com](mailto:prashant.kulkarni@valuemomentum.com)
+- [divakar.kadupu@valuemomentum.com](mailto:divakar.kadupu@valuemomentum.com)
+- [akhilesh.karra@valuemomentum.com](mailto:akhilesh.karra@valuemomentum.com)
+- [shashank.tudum@valuemomentum.com](mailto:shashank.tudum@valuemomentum.com)
+
+  
+
 
