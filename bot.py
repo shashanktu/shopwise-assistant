@@ -194,6 +194,7 @@ if user_message := st.chat_input("Ask anything..."):
         """
         response = get_gemini_response(question_prompt)
         sql_response = extract_sql_query(response).strip().replace("\n", " ")
+        # reply_prompt = f"Now according to the response {query_result} generate a reply in a human-friendly manner for the query {user_message} do not ask any more questions."
         query_result = read_sql_query(sql_response, db)
         logging.debug(f"The Query result is: {query_result}")
        
