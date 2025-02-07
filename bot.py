@@ -8,7 +8,7 @@ import logging
 from dotenv import load_dotenv
 load_dotenv()
 
-int a=
+int a
  
 # Configure logging
 logging.basicConfig(
