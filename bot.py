@@ -193,7 +193,7 @@ if user_message := st.chat_input("Ask anything..."):
         sql_response = extract_sql_query(response).strip().replace("\n", " ")
         query_result = read_sql_query(sql_response, db)
         logging.debug(f"The Query result is: {query_result}")
-        # reply_prompt = f"Now according to the response {query_result} generate a reply in a human-friendly manner for the query {user_message} do not ask any more questions."
+       
         response_content = bot_reply(query_result,user_message)#get_gemini_response(reply_prompt)
  
     with st.chat_message("assistant"):
